@@ -1,0 +1,23 @@
+- 👋 Hi, I’m @Tanjirokamadl
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Tanjirokamadl/Tanjirokamadl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->pkg update && pkg upgrade
+--> pkg install python3
+
+--> pkg install requests
+
+--> pip2 install mechanize
+
+--> git clone https://github.com/tanjiro/cr4ck
+
+--> cd tanjiro
+
+--> git pull
+
+--> python2 tanjiro.py
